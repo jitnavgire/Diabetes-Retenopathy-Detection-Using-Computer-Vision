@@ -1,5 +1,5 @@
 # Daibetes-Retinopathy-Detection-Using-Computer-Vision
-Diabetest Retinopathy  Detection by  OpenCv and Computer-Vision  Using retina images of a person.
+Diabetes Retinopathy  Detection by  OpenCv and Computer-Vision  Using retina images of a person.
 
 Dataset contain the images of diabetes patient and normal person.
 
