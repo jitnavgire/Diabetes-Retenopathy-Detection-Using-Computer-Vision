@@ -4,8 +4,11 @@ Diabetest Retinopathy  Detection by  OpenCv and Computer-Vision  Using retina im
 Dataset contain the images of diabetes patient and normal person.
 
 Requirnments:
-OpenCv:--pip install opencv-python
-scikit-image library:--pip3 install scikit-image
-matplotlib: --pip3 install matplotlib
+
+OpenCv :--pip3 install opencv-python
+
+scikit-image library :--pip3 install scikit-image
+
+matplotlib : --pip3 install matplotlib
 
 
